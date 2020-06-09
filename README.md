@@ -1,7 +1,7 @@
 [![pypi](https://img.shields.io/pypi/v/spflow.svg)](https://pypi.org/project/spflow/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Build Status](https://travis-ci.com/SPFlow/SPFlow.svg?branch=master)](https://travis-ci.com/SPFlow/SPFlow)
-
+![Python package](https://github.com/SPFlow/SPFlow/workflows/Python%20package/badge.svg)
+![Build Deploy Documentation](https://github.com/SPFlow/SPFlow/workflows/Build%20Deploy%20Documentation/badge.svg)
 
 # SPFlow: An Easy and Extensible Library for Sum-Product Networks
 
